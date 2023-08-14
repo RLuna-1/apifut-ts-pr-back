@@ -21,6 +21,7 @@
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
     "mysql2": "^3.6.0",
+    "typescript": "^5.1.6",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
